@@ -1,0 +1,18 @@
+{
+  "name": "nanoexpress-ts",
+  "version": "1.0.0",
+  "description": "Get started using nanoexpress with this basic template.",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "nanoexpress": "^2.4.9"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.31",
+    "ts-node": "^9.1.1",
+    "tslib": "^2.1.0",
+    "typescript": "^4.1.3"
+  }
+}
